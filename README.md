@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Adam
 
-<!--
-**madpirate78/madpirate78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on an anonymous evidence submission platform with Next.js
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Writing
+- [Why I Ditched API Routes for Server Actions in Next.js](https://dev.to/adamp78/why-i-ditched-api-routes-for-server-actions-in-nextjs-b16)
+
+## Current Project
+* Building an anonymous evidence submission platform with Next.js
+  
+* I'm currently learning Server Actions, Edge Functions, and how to write cleaner code
+* I'm looking to collaborate on Next.js projects that make a real difference
+* Ask me about form validation, CSRF protection, or why I love deleting code
+* How to reach me: [Dev.to](https://dev.to/adamp78)
+  
