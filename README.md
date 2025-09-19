@@ -10,7 +10,7 @@ Building platforms that give people a voice through modern web technologies.
 
 ## 💼 Recent Projects
 
-### Alexandria Millennium Green Trust
+### Alexandra Millennium Green Trust
 - Built complete donation system with automated Gift Aid processing
 - Implemented secure admin portal with GitHub OAuth
 - Zero infrastructure costs while maintaining bank-level security
