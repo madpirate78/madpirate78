@@ -1,56 +1,35 @@
 # Hi, I'm Adam 👋
 
-Building platforms that give people a voice through modern web technologies.
+Full-stack developer building AI-powered platforms and privacy-first web apps.
 
 ## 🚀 Current Focus
 
-**Gift Aid Automation for UK Charities** - Helping charities claim the 25% they're missing. Recently launched a system for Alexandria Millennium Green Trust that automates Gift Aid collection and HMRC submissions.
+AI integration into web applications — building adaptive systems with Gemini and OpenAI APIs, alongside privacy-first platforms for charities and sensitive data collection.
 
-**Tech Stack:** Next.js 14 • TypeScript • Drizzle ORM • SQLite • Tailwind CSS
+## 💼 Projects
 
-## 💼 Recent Projects
+| Project | What it does |
+|---|---|
+| **Dyadem** | AI-powered adaptive feedback platform (Gemini API) — submitted to Google hackathon |
+| **TrusteeKit** | Charity donation system with automated Gift Aid processing & HMRC submissions. Zero infrastructure costs |
+| **Evidence Platform** | Anonymous data collection for judicial review. 500+ sensitive submissions, zero privacy incidents |
+| **Buzzfoiler** | High-performance marketing site for electric watercraft startup. 91/100 Lighthouse score |
+| **Legal Bundle Builder** | Open source document generation for legal professionals |
 
-### Alexandra Millennium Green Trust
-- Built complete donation system with automated Gift Aid processing
-- Implemented secure admin portal with GitHub OAuth
-- Zero infrastructure costs while maintaining bank-level security
-- [Live Site](https://alexandramillenniumgreen.org.uk)
+## 🛠️ Tech
 
-### The Evidence Platform
-- Anonymous data collection system for sensitive research
-- CSRF protection, encrypted storage, GDPR compliant
-- Built with psychology research background in mind
+`Next.js` `TypeScript` `React` `Tailwind CSS` `Supabase` `Drizzle ORM` `Gemini API` `OpenAI API` `Stripe` `GoCardless` `Vercel`
 
-### Legal Bundle Builder (Open Source)
-- Automated document generation tool for legal professionals
-- Reduces document preparation from hours to minutes
-- Built to improve access to justice
+## 🎓 Background
 
-<!--[GitHub Repo](link-to-repo)-->
+Psychology (Oxford) → Intelligent Systems (UCL) → Computational Research (Imperial)
 
-## 🛠️ What I'm Good At
-
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** Server Actions, Drizzle ORM, SQLite
-- **Security:** CSRF protection, secure authentication, data encryption
-- **Domain:** Charity sector, Gift Aid systems, privacy-first applications
+I focus on how people actually use what I build, not just technical elegance.
 
 ## 📝 Recent Writing
 
-- [Why I Ditched API Routes for Server Actions in Next.js]<!--(link)-->
-
-## 🤝 Open to Collaborate On
-
-- Charity and nonprofit web projects
-- Privacy-focused applications
-- Open source tools for social good
-- Projects that make a genuine impact
+[Why I Ditched API Routes for Server Actions in Next.js](link)
 
 ## 📫 Get in Touch
 
-- Portfolio: [adampio.dev](https://adampio.dev)
-- LinkedIn: [/in/adampio](https://linkedin.com/in/adampio)
-
----
-
-*Currently helping UK charities unlock missing Gift Aid revenue through modern web solutions*
+[adampio.dev](https://adampio.dev) • [LinkedIn](https://linkedin.com/in/adampio)
