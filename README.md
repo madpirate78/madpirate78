@@ -13,7 +13,7 @@ AI integration into web applications — building adaptive systems with Gemini a
 | **Dyadem** | AI-powered adaptive feedback platform (Gemini API) — submitted to Google hackathon |
 | **TrusteeKit** | Charity donation system with automated Gift Aid processing & HMRC submissions. Zero infrastructure costs |
 | **Evidence Platform** | Anonymous data collection for judicial review. 500+ sensitive submissions, zero privacy incidents |
-| **Buzzfoiler** | High-performance marketing site for electric watercraft startup. 91/100 Lighthouse score |
+| **Buzzfoiler** | High-performance marketing site for electric watercraft startup |
 | **Legal Bundle Builder** | Open source document generation for legal professionals |
 
 ## 🛠️ Tech
